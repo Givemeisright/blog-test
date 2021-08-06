@@ -11,9 +11,9 @@
 ---
 ### 我制作的网页：
 
-1.[太极](givemeisright.github.io/taiji/index.html)
+1.[太极](https://givemeisright.github.io/taiji/)
 
-2.[标签组件](givemeisright.github.io/tabconponent/index.html) 
+2.[标签组件](https://givemeisright.github.io/tabconponent/index.html) 
 
 3.[井字棋](https://givemeisright.github.io/vue-demo/dist/index.html)
 
